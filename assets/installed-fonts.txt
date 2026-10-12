@@ -1,0 +1,217 @@
+# 사용자 PC에 실제 설치된 글꼴 (validate_hwpx.py가 대조용으로 읽음)
+# 한 줄에 하나. '#' 시작 줄과 빈 줄은 무시.
+# 사람이 읽을 설명과 용도별 추천은 references/fonts.md 참조.
+
+# --- 나눔 계열 ---
+나눔고딕
+나눔고딕 에코
+나눔고딕OTF
+나눔고딕OTF 에코
+나눔명조
+나눔명조 에코
+나눔명조 옛한글
+나눔명조OTF
+나눔명조OTF 에코
+나눔명조OTF 옛한글
+나눔바른고딕
+나눔바른고딕 옛한글
+나눔바른고딕OTF
+나눔바른고딕OTF 옛한글
+나눔바른펜
+나눔바른펜OTF
+나눔손글씨 붓
+나눔손글씨 붓 OTF
+나눔손글씨 펜
+나눔손글씨 펜 OTF
+나눔스퀘어
+나눔스퀘어 네오
+나눔스퀘어 네오 OTF
+나눔스퀘어 네오 variable
+나눔스퀘어_ac
+나눔스퀘어OTF
+나눔스퀘어OTF_ac
+나눔스퀘어라운드
+나눔휴먼OTF
+나눔휴먼TTF
+
+# --- 함초롬 / 한컴 ---
+함초롬돋움
+함초롬돋움 확장
+함초롬바탕
+함초롬바탕 확장
+함초롬바탕 확장B
+한컴 고딕
+한컴 말랑말랑
+한컴산뜻돋움
+한컴 울주 반구대 암각화체
+한컴 울주 천전리 각석체
+한컴 훈민정음 가로쓰기
+한컴 훈민정음 세로쓰기
+
+# --- 휴먼 계열 ---
+휴먼둥근헤드라인
+휴먼매직체
+휴먼모음T
+휴먼아미체
+휴먼엑스포
+휴먼옛체
+휴먼편지체
+
+# --- Windows 기본 한글 / HY ---
+굴림
+굴림체
+궁서
+궁서체
+돋움
+돋움체
+바탕
+바탕체
+맑은 고딕
+새굴림
+Noto Sans KR
+Noto Serif KR
+# HY 계열 — 한글 프로그램 글꼴 목록에 표시되는 이름 그대로.
+# Windows 글꼴 폴더의 영문 이름(HYGothic, HYSinMyeongJo 등)은 face에 쓰면 안 된다.
+HY강B
+HY강M
+HY견고딕
+HY견명조
+HY궁서
+HY궁서B
+HY그래픽
+HY그래픽M
+HY나무B
+HY나무L
+HY나무M
+HY동녘B
+HY동녘M
+HY목각파임B
+HY목판L
+HY바다L
+HY바다M
+HY백송B
+HY산B
+HY센스L
+HY수평선B
+HY수평선M
+HY신명조
+HY얕은샘물M
+HY엽서L
+HY엽서M
+HY울릉도B
+HY울릉도M
+HY중고딕
+HY크리스탈M
+HY태백B
+HY헤드라인M
+
+# --- 수식 ---
+HancomEQN
+HyhwpEQ
+Cambria Math
+MT Extra
+Symbol
+
+# --- 영문 본문/제목 ---
+Arial
+Bahnschrift
+Book Antiqua
+Bookman Old Style
+Calibri
+Cambria
+Candara
+Century
+Century Gothic
+Comic Sans MS
+Constantia
+Corbel
+Dubai
+Ebrima
+Franklin Gothic
+Gabriola
+Gadugi
+Garamond
+Georgia
+Impact
+Ink Free
+Leelawadee
+Leelawadee UI
+Lucida Sans Unicode
+Microsoft Sans Serif
+Monotype Corsiva
+MS Reference Sans Serif
+MS Sans Serif
+MS Serif
+Palatino Linotype
+Roman
+Sans Serif Collection
+Script
+Segoe Print
+Segoe Script
+Segoe UI
+Segoe UI Historic
+Segoe UI Variable
+Sitka
+Small Fonts
+Sylfaen
+Tahoma
+Times New Roman
+Trebuchet MS
+Verdana
+
+# --- 고정폭 / 코딩 ---
+Consolas
+Courier
+Courier New
+D2Coding
+D2Coding ligature
+Fixedsys
+Lucida Console
+Modern
+System
+Terminal
+
+# --- CJK / 다국어 ---
+Javanese Text
+Microsoft Himalaya
+Microsoft JhengHei
+Microsoft JhengHei UI
+Microsoft New Tai Lue
+Microsoft PhagsPa
+Microsoft Tai Le
+Microsoft Uighur
+Microsoft YaHei
+Microsoft YaHei UI
+Microsoft Yi Baiti
+MingLiU-ExtB
+MingLiU_HKSCS-ExtB
+MingLiU_MSCS-ExtB
+Mongolian Baiti
+MS Gothic
+MS PGothic
+MS UI Gothic
+Myanmar Text
+NewJumja
+Nirmala Text
+Nirmala UI
+NSimSun
+PMingLiU-ExtB
+SimSun
+SimSun-ExtB
+SimSun-ExtG
+Yu Gothic
+Yu Gothic UI
+
+# --- 기호/아이콘 (본문 사용 금지) ---
+Bookshelf Symbol 7
+Haan Wing2
+MS Outlook
+MS Reference Specialty
+Segoe Fluent Icons
+Segoe MDL2 Assets
+Segoe UI Emoji
+Segoe UI Symbol
+Webdings
+Wingdings
+Wingdings 2
+Wingdings 3
